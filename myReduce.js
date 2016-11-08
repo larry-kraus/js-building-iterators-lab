@@ -3,7 +3,7 @@
 
 function myReduce(arr, callback) {
 
-//  CODE INSIDE HERE   //
+
 
 }
 
